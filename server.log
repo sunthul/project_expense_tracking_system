@@ -1,0 +1,8 @@
+2024-11-15 06:55:11,555 - backend.db_helper - INFO - delete_expense_for_date called with 2024-08-28
+2024-11-15 06:55:11,608 - backend.db_helper - INFO - Connection Successful
+2024-11-15 06:55:11,629 - backend.db_helper - INFO - insert_expense called with date: 2024-08-28, amount: 20000000.0, category: Shopping, notes: Mercedez Benz
+2024-11-15 06:55:11,646 - backend.db_helper - INFO - Connection Successful
+2024-11-15 06:55:51,781 - db_helper.py - INFO - delete_expense_for_date called with 2024-08-28
+2024-11-15 06:55:51,823 - db_helper.py - INFO - Connection Successful
+2024-11-15 06:55:51,835 - db_helper.py - INFO - insert_expense called with date: 2024-08-28, amount: 20000000.0, category: Shopping, notes: Mercedez Benz
+2024-11-15 06:55:51,847 - db_helper.py - INFO - Connection Successful

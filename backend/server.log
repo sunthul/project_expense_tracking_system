@@ -1,0 +1,322 @@
+2024-11-15 06:57:59,269 - backend.db_helper - INFO - delete_expense_for_date called with 2024-08-28
+2024-11-15 06:57:59,302 - backend.db_helper - INFO - Connection Successful
+2024-11-15 06:57:59,311 - backend.db_helper - INFO - insert_expense called with date: 2024-08-28, amount: 20000000.0, category: Shopping, notes: Mercedez Benz
+2024-11-15 06:57:59,324 - backend.db_helper - INFO - Connection Successful
+2024-11-15 06:58:40,791 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-28
+2024-11-15 06:58:40,822 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:32:02,552 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:32:02,842 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:33:02,370 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2024-11-15 20:33:02,383 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:33:07,981 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-03
+2024-11-15 20:33:07,990 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:41:06,011 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:41:06,050 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:42:46,133 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:42:46,191 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:42:53,527 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:42:53,557 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:43:27,580 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:43:27,589 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:43:31,250 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-08
+2024-11-15 20:43:31,259 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:43:36,289 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-11-15 20:43:36,301 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:43:46,199 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:43:46,208 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:46:09,064 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:46:09,097 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:46:27,964 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:46:27,975 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:48:05,053 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:48:05,082 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:49:24,097 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:49:24,126 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:53:22,098 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:53:22,129 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:55:37,182 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:55:37,192 - backend.db_helper - INFO - Connection Successful
+2024-11-15 20:59:17,762 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 20:59:17,793 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:00:21,840 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 21:00:21,870 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:01:21,093 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 21:01:21,123 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:01:32,527 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2024-11-15 21:01:32,536 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:01:48,628 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2024-11-15 21:01:48,658 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:32:38,601 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 21:32:38,668 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:33:51,396 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 21:33:51,426 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:41:11,042 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 21:41:11,074 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:41:52,145 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-11-15 21:41:52,154 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:42:06,427 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-08
+2024-11-15 21:42:06,435 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:42:10,558 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-15 21:42:10,567 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:42:15,027 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-11-15 21:42:15,043 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:42:19,949 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-15 21:42:19,957 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:44:57,684 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-22
+2024-11-15 21:44:57,696 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:45:33,913 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-22
+2024-11-15 21:45:33,921 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:47:11,511 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-22
+2024-11-15 21:47:11,644 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:47:18,339 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-21
+2024-11-15 21:47:18,348 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:47:26,223 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 21:47:26,233 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:48:52,796 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 21:48:52,825 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:50:15,675 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-11-15 21:50:15,684 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:50:34,720 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-11-15 21:50:34,728 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:51:18,979 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-11-15 21:51:19,010 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:51:22,768 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-11-15 21:51:22,776 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:51:24,829 - backend.db_helper - INFO - delete_expense_for_date called with 2024-08-09
+2024-11-15 21:51:24,838 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:51:24,844 - backend.db_helper - INFO - insert_expense called with date: 2024-08-09, amount: 300.0, category: Food, notes: Samosa
+2024-11-15 21:51:24,854 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:53:11,364 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-11-15 21:53:11,396 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:53:13,443 - backend.db_helper - INFO - delete_expense_for_date called with 2024-08-09
+2024-11-15 21:53:13,453 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:53:13,469 - backend.db_helper - INFO - insert_expense called with date: 2024-08-09, amount: 300.0, category: Food, notes: Samosa
+2024-11-15 21:53:13,479 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:54:12,283 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-11-15 21:54:12,316 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:55:33,165 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-09
+2024-11-15 21:55:33,195 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:55:41,972 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-08
+2024-11-15 21:55:41,980 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:55:48,753 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-15 21:55:48,763 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:55:53,178 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-15 21:55:53,188 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:55:59,608 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-11-15 21:55:59,619 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:56:04,088 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-15 21:56:04,099 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:56:18,455 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-15 21:56:18,463 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:56:20,505 - backend.db_helper - INFO - delete_expense_for_date called with 2024-08-07
+2024-11-15 21:56:20,514 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:56:20,522 - backend.db_helper - INFO - insert_expense called with date: 2024-08-07, amount: 300.0, category: Food, notes: Samosa
+2024-11-15 21:56:20,531 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:56:27,166 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-06
+2024-11-15 21:56:27,176 - backend.db_helper - INFO - Connection Successful
+2024-11-15 21:56:31,119 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-07
+2024-11-15 21:56:31,128 - backend.db_helper - INFO - Connection Successful
+2024-11-16 07:01:53,224 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-16 07:01:53,343 - backend.db_helper - INFO - Connection Successful
+2024-11-16 07:07:12,874 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-16 07:07:12,939 - backend.db_helper - INFO - Connection Successful
+2024-11-16 07:14:08,684 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-16 07:14:08,731 - backend.db_helper - INFO - Connection Successful
+2024-11-16 07:19:14,689 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-16 07:19:14,727 - backend.db_helper - INFO - Connection Successful
+2024-11-16 07:25:10,899 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-16 07:25:11,113 - backend.db_helper - INFO - Connection Successful
+2024-11-17 09:38:31,672 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-17 09:38:31,804 - backend.db_helper - INFO - Connection Successful
+2024-11-17 09:38:36,658 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-06
+2024-11-17 09:38:36,672 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:01:37,995 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-06
+2024-11-18 05:01:38,095 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:20:01,617 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:20:01,839 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:20:06,971 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:20:06,980 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:27:42,011 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:27:42,228 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:27:45,936 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:27:45,946 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:27:53,557 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:27:53,566 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:27:57,431 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:27:57,440 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:28:17,138 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:28:17,165 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:28:25,937 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:28:25,948 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:30:19,492 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:30:19,522 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:30:21,584 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:30:21,593 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:32:56,261 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:32:56,292 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:36:46,091 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:36:46,125 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:36:55,301 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:36:55,310 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:36:57,361 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:36:57,370 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:37:44,290 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:37:44,321 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:37:46,365 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:37:46,374 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:38:56,205 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:38:56,235 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:39:00,852 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:39:00,862 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:39:02,907 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:39:02,916 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:43:58,264 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:43:58,294 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:44:04,723 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:44:04,732 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:44:06,792 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:44:06,800 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:45:28,853 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:45:28,886 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:45:39,006 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:45:39,016 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:45:41,082 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:45:41,090 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:45:57,373 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:45:57,405 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:46:13,325 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:46:13,333 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:46:15,402 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:46:15,413 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:48:56,805 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:48:56,838 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:49:01,648 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:49:01,659 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:49:03,734 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:49:03,745 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:51:06,392 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:51:06,432 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:51:09,634 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:51:09,642 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:51:11,701 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:51:11,709 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:53:01,298 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:53:01,340 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:53:05,305 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:53:05,317 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:53:07,399 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:53:07,413 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:54:51,737 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:54:51,746 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:54:56,647 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:54:56,655 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:54:58,722 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:54:58,731 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:56:28,295 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:56:28,325 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:56:32,179 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:56:32,189 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:56:34,245 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:56:34,254 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:57:26,192 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:57:26,227 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:57:29,988 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:57:29,996 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:57:32,042 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:57:32,064 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:57:48,328 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:57:48,358 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:57:52,660 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:57:52,669 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:57:54,727 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:57:54,736 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:58:17,927 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:58:17,960 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:58:22,950 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:58:23,380 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:58:25,442 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:58:25,463 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:58:40,586 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:58:40,618 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:58:44,825 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:58:44,834 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:58:46,879 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:58:46,887 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:59:35,580 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:59:35,609 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:59:39,514 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 05:59:39,523 - backend.db_helper - INFO - Connection Successful
+2024-11-18 05:59:41,574 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 05:59:41,582 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:01:32,537 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:01:32,565 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:01:36,874 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:01:36,882 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:01:38,947 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 06:01:38,958 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:03:19,698 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:03:19,730 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:03:24,675 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:03:24,687 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:03:26,760 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 06:03:26,774 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:06:59,901 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:06:59,935 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:07:04,325 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:07:04,333 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:07:06,380 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 06:07:06,388 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:07:20,531 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:07:20,561 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:07:23,998 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:07:24,006 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:07:26,060 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 06:07:26,068 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:08:12,270 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:08:12,306 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:08:15,848 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 06:08:15,859 - backend.db_helper - INFO - Connection Successful
+2024-11-18 06:08:17,904 - backend.db_helper - INFO - fetch_expense_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 06:08:18,093 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:18:44,404 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 07:18:44,458 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:40:16,508 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 07:40:16,709 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:40:18,788 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 07:40:18,798 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:41:43,338 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 07:41:43,367 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:41:45,430 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 07:41:45,439 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:03,109 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-28
+2024-11-18 07:43:03,118 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:05,173 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 07:43:05,183 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:23,643 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-28
+2024-11-18 07:43:23,651 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:25,686 - backend.db_helper - INFO - delete_expense_for_date called with 2024-08-28
+2024-11-18 07:43:25,695 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:25,721 - backend.db_helper - INFO - insert_expense called with date: 2024-08-28, amount: 2000.0, category: Rent, notes: renting Mercedez Benz
+2024-11-18 07:43:25,738 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:27,795 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 07:43:27,804 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:43,432 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-28
+2024-11-18 07:43:43,440 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:45,490 - backend.db_helper - INFO - fetch_expenses_by_category_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 07:43:45,500 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:47,565 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 07:43:47,574 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:55,995 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-28
+2024-11-18 07:43:56,003 - backend.db_helper - INFO - Connection Successful
+2024-11-18 07:43:58,061 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 07:43:58,070 - backend.db_helper - INFO - Connection Successful
+2024-11-18 08:07:19,210 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 08:07:19,477 - backend.db_helper - INFO - Connection Successful
+2024-11-18 08:07:21,552 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 08:07:21,566 - backend.db_helper - INFO - Connection Successful
+2024-11-18 08:07:25,342 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 08:07:25,351 - backend.db_helper - INFO - Connection Successful
+2024-11-18 08:07:27,408 - backend.db_helper - INFO - fetch_expenses_by_category_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 08:07:27,416 - backend.db_helper - INFO - Connection Successful
+2024-11-18 08:07:29,473 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 08:07:29,484 - backend.db_helper - INFO - Connection Successful

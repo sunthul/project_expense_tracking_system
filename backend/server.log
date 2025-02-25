@@ -320,3 +320,13 @@
 2024-11-18 08:07:27,416 - backend.db_helper - INFO - Connection Successful
 2024-11-18 08:07:29,473 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
 2024-11-18 08:07:29,484 - backend.db_helper - INFO - Connection Successful
+2024-11-18 17:05:15,399 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 17:05:15,731 - backend.db_helper - INFO - Connection Successful
+2024-11-18 17:05:17,914 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 17:05:17,933 - backend.db_helper - INFO - Connection Successful
+2024-11-18 17:05:24,858 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-11-18 17:05:24,867 - backend.db_helper - INFO - Connection Successful
+2024-11-18 17:05:26,961 - backend.db_helper - INFO - fetch_expenses_by_category_summary called with date1: 2024-08-01 and date2: 2024-08-05
+2024-11-18 17:05:26,972 - backend.db_helper - INFO - Connection Successful
+2024-11-18 17:05:29,037 - backend.db_helper - INFO - fetch_expenses_by_monthly_summary called
+2024-11-18 17:05:29,696 - backend.db_helper - INFO - Connection Successful
